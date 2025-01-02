@@ -1,5 +1,7 @@
 ## Wake the fuck up, Samurai! We have a brains to burn.
 
+Student of "Information systems and technologies" in Odesa Mechnikov National University
+
 <!--
 **oouoz442/oouoz442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
