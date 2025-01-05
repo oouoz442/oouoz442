@@ -3,6 +3,7 @@
 Student of "Information systems and technologies" in Odesa Mechnikov National University
 
 I use arch btw
+
 Learn C/C++/Linux
 <!--
 **oouoz442/oouoz442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
