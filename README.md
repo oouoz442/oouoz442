@@ -6,7 +6,9 @@ I use arch btw
 
 Learn C/C++/Linux
 
-Contact me if you are from Odesa
+proj ideas:
+own site, genetic family tree, rewrite own standart c++ library, own simple game engine opengl\vulcane, linux rice
+
 <!--
 **oouoz442/oouoz442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
