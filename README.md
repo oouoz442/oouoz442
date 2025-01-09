@@ -9,6 +9,8 @@ Learn C/C++/Linux
 proj ideas:
 own site, genetic family tree, rewrite own standart c++ library, own simple game engine opengl\vulcane, linux rice
 
+365 days github challenge
+
 <!--
 **oouoz442/oouoz442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
