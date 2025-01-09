@@ -1,7 +1,5 @@
 ## Wake the fuck up, Samurai! We have a brains to burn.
 
-Student of "Information systems and technologies" in Odesa Mechnikov National University
-
 I use arch btw
 
 Learn C/C++/Linux
