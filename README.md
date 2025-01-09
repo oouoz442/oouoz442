@@ -1,4 +1,4 @@
-## Wake the fuck up, Samurai! We have a brains to burn.
+## Wake the fuck up, Samurai! We have brains to burn.
 
 I use arch btw
 
