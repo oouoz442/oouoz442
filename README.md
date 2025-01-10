@@ -8,7 +8,7 @@ proj ideas:
 own site, genetic family tree, rewrite own standart c++ library, own simple game engine opengl\vulcane, linux rice
 
 365 days github + code challenge:
-9/365
+10/365
 
 
 
