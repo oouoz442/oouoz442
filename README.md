@@ -10,6 +10,11 @@ own site, genetic family tree, rewrite own standart c++ library, own simple game
 365 days github + code challenge:
 9/365
 
+
+
+
+
+...help me...
 <!--
 **oouoz442/oouoz442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
