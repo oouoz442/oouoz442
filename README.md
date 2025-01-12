@@ -7,8 +7,10 @@ Learn C/C++/Linux
 proj ideas:
 own site, genetic family tree, rewrite own standart c++ library, own simple game engine opengl\vulcane, linux rice
 
+1 proj - 1 month
+
 365 days github + code challenge:
-11/365
+12/365
 
 
 
