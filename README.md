@@ -10,7 +10,7 @@ own site, genetic family tree, rewrite own standart c++ library, own simple game
 1 proj - 1 month
 
 365 days github + code challenge:
-12/365
+13/365
 
 
 
