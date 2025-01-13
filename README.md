@@ -9,6 +9,8 @@ own site, genetic family tree, rewrite own standart c++ library, own simple game
 
 1 proj - 1 month
 
+January 2025 - Linux Rice: Arch + dwm 
+
 365 days github + code challenge:
 13/365
 
