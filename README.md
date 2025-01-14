@@ -12,7 +12,7 @@ own site, genetic family tree, rewrite own standart c++ library, own simple game
 January 2025 - Linux Rice: Arch + dwm 
 
 365 days github + code challenge:
-13/365
+14/365
 
 
 
