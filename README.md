@@ -4,9 +4,6 @@ I use arch btw
 
 Learn C/C++/Linux
 
-proj ideas:
-own site, genetic family tree, rewrite own standart c++ library, own simple game engine opengl\vulcane, linux rice
-
 1 proj - 1 month
 
 January 2025 - Linux Rice: Arch + dwm 
