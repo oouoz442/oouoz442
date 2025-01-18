@@ -14,8 +14,6 @@ January 2025 - Linux Rice: Arch + dwm
 
 
 
-
-...help me...
 <!--
 **oouoz442/oouoz442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
