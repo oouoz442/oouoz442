@@ -9,7 +9,7 @@ Learn C/C++/Linux
 January 2025 - Linux Rice: Arch + dwm 
 
 365 days github + code challenge:
-19/365
+20/365
 
 
 
