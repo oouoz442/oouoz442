@@ -1,17 +1,3 @@
-## Wake the fuck up, Samurai! We have brains to burn them.
-
-I use arch btw
-
-Learn C/C++/Linux
-
-1 proj - 1 month
-
-January 2025 - Linux Rice: Arch + dwm 
-
-365 days github + code challenge:
-50/365
-
-
 
 
 <!--
